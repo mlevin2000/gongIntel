@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Gong Call Intelligence
 
 <div align="center">
