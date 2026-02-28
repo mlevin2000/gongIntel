@@ -1,0 +1,13 @@
+{
+  "name": "gong-intel",
+  "private": true,
+  "workspaces": ["apps/*"],
+  "scripts": {
+    "dev:api": "bun run --cwd apps/api dev",
+    "dev:web": "bun run --cwd apps/web dev",
+    "dev": "bun run dev:api & bun run dev:web",
+    "build:api": "bun run --cwd apps/api build",
+    "build:web": "bun run --cwd apps/web build",
+    "build": "bun run build:api && bun run build:web"
+  }
+}
