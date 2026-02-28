@@ -221,14 +221,14 @@ Deployment infrastructure is ready (Dockerfile + Cloud Run script):
 ┌─────────────────────────────────────────────────────────────┐
 │                   Hono API Server                           │
 │                   Port 3001 (dev) / Cloud Run               │
-│  ┌────────────┐ ┌────────────┐ ┌────────────┐              │
-│  │ Google     │ │ Claude AI  │ │ Google     │              │
-│  │ OAuth      │ │ Analysis   │ │ Drive      │              │
-│  └────────────┘ └────────────┘ └────────────┘              │
-│                         ▼                                     │
-│                  ┌────────────┐                              │
-│                  │ Firestore  │                              │
-│                  └────────────┘                              │
+│  ┌────────────┐ ┌────────────┐ ┌────────────┐               │
+│  │ Google     │ │ Claude AI  │ │ Google     │               │
+│  │ OAuth      │ │ Analysis   │ │ Drive      │               │
+│  └────────────┘ └────────────┘ └────────────┘               │
+│                         ▼                                   │
+│                  ┌────────────┐                             │
+│                  │ Firestore  │                             │
+│                  └────────────┘                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -371,4 +371,3 @@ MIT License - See [LICENSE](LICENSE) file for details.
 <p align="center">
   <sub>Built at cast.ai with ❤️ using Claude AI</sub>
 </p>
->>>>>>> 06f79eb (docs: add GitHub README for Gong Call Intelligence)
