@@ -108,7 +108,7 @@ Based on **7-step sales coaching methodology**:
 ### Time Savings
 | Before | After |
 |--------|-------|
-| 60-90 minutes per call review | 3-5 minutes阅读 analysis |
+| 60-90 minutes per call review | 3-5 minutes per analysis |
 | Manual transcript parsing | Automated extraction |
 | Rep individual learning | Team-wide knowledge capture |
 
