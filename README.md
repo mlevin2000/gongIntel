@@ -1,6 +1,4 @@
 <<<<<<< HEAD
-# gongIntel
-=======
 # Gong Call Intelligence
 
 <div align="center">
